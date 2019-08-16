@@ -1,0 +1,15 @@
+.site-header {
+  background-image: url(../img/bg-my_site.jpg);
+}
+
+.site-header-content {
+  margin-top: 76px;
+  color: #fff;
+  height: calc(100vh - 76px);
+}
+
+.divider {
+  border-width: 0.2rem;
+  border-color: #f4623a;
+  max-width: 3.25rem;
+}
